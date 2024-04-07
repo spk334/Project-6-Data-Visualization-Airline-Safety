@@ -1,7 +1,7 @@
 Project 6: Data Visualization using Airline fatality data 
 
 Focus of project is going from 
-1) Data Science team to
+1) Analysis delivered to Data Science team to
 2) Executive presentation to
 3) Customer Information website to
 4) Infographic to Consumer
